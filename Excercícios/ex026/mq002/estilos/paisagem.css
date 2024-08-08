@@ -1,3 +1,7 @@
 @charset "UTF-8";
 
 /*Paisagem*/
+body{
+    background-image: url(../imagem/cev-landscape.jpg);
+    background-position: left bottom; /*Grudar imagem a esqueda e em baixo da tela*/
+}
